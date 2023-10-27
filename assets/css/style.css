@@ -107,6 +107,8 @@ ul {
   text-decoration: none;
   gap: 8px;
   transition: all 0.3s linear;
+  background-color: #fff;
+  cursor: pointer;
 }
 
 .b-nav-tab.active {
